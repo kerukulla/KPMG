@@ -1,5 +1,5 @@
 # KPMG
-CAse Study
+Case Study
 
  	Requirements:	 	 	 	 	 	 	 	 	 	 
  	(1)    Please publish no more than 5 slides no later than Tuesday (1-Dec-2020)@ 12.00 PM	 	 
